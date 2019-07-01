@@ -1,0 +1,30 @@
+.card-body {
+    width: 100%;
+    box-shadow: 4px 4px 10px black;
+    padding: 16px;
+    border-radius: 4px;
+    background-image: linear-gradient(to bottom, #792359, #FD3E81);
+    z-index: 5;
+}
+
+.card-body h2 {
+    padding: 16px;
+    text-align: center;
+    font-family: "Josefin Sans";
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.card-options {
+    width: 100%;
+}
+
+.card-options button {
+    background-color: #2F2D2E;
+}
+
+.selected-option {
+    background-color: transparent !important;
+    color: black;
+    font-weight: bold;
+}

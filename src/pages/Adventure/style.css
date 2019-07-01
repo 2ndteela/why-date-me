@@ -1,0 +1,13 @@
+.card-holder {
+    width: 100%;
+    padding-top: 24px;
+    position: relative;
+}
+
+.linker {
+    width: 8px;
+    background-color: grey;
+    position: absolute;
+    height: 36px;
+    top: -2px;
+}

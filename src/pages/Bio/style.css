@@ -1,0 +1,42 @@
+#bio-graph {
+    width: 100%;
+    border-left: 1px solid white;
+    min-height: 30px;
+    justify-content: flex-start;
+    align-items: flex-start !important;
+}
+
+#graph-scale {
+    width: 100%;
+    flex-direction: row;
+}
+
+#graph-scale span {
+    width: 10%;
+    border-right: 1px solid white;
+    height: 16px;
+}
+
+.graph-bar {
+    width: 100%;
+    padding-bottom: 8px;
+    align-items: flex-start !important;
+    position: relative;
+}
+
+.rating-bar {
+    width: 70%;
+    height: 32px;
+    justify-content: center;
+    background-image: linear-gradient(to right, #792359, #FD3E81);
+    align-items: flex-start !important;
+    text-align: left !important;
+    overflow: visible;
+}
+
+.rating-tag {
+    position: absolute;
+    top: 10px;
+    left: 8px;
+}
+
