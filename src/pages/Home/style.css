@@ -9,7 +9,7 @@
     text-decoration: none !important;
     margin-bottom: 16px;
     width: 100%;
-    background-color: #D72483;
+    background-image: linear-gradient(to right, #792359, #FD3E81);
     border-radius: 4px;
     color: white;
 }

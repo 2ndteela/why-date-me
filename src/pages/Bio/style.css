@@ -40,3 +40,9 @@
     left: 8px;
 }
 
+#bubbles {
+    position: relative;
+    height: 100vh;
+    width: 288px;
+}
+

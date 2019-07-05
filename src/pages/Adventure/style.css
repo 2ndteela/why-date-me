@@ -17,3 +17,8 @@
     text-align: center;
     padding: 24px 0;
 }
+
+.card-holder a {
+    background-color: #2F2D2E !important;
+    background-image: #2F2D2E !important;
+}
