@@ -1,0 +1,129 @@
+{
+ "data": [
+    {
+        "text": "What should we do on our date?",
+        "answers": [
+            {
+                "text": "Dinner and a movie",
+                "idx": 1
+            },
+            {
+               "text": "Cook dinner and cookies",
+               "idx": -1
+            }, 
+            {
+                "text": "Hike",
+                "idx": -1
+            },
+            {
+                "text": "Stand me up",
+                "idx": -1
+            }
+        ]
+    },
+    {
+        "text": "Where do we go for dinner?",
+        "answers": [
+            {
+                "text": "Zupa's",
+                "idx": 2
+            },
+            {
+                "text": "Cafe Rio",
+                "idx": 2
+            },
+            {
+                "text": "Mcdonalds",
+                "idx": -1,
+                "errorMsg": "Kidding! I'll take you somewhere nicer than that. Unless you said it for the ice cream, which is pretty darn good. We can go for dessert after if you want :)"
+            },
+            {
+                "text": "Red Lobster",
+                "idx": 5
+            }
+        ]
+    },
+    {
+        "text": "That's one of my favorite places! We go to dinner and at first it's pretty awkward, but we start to get some banter going. I start laughing at your jokes, you start laughing at mine and things start looking good. You even get me to almost spit out my drink, but I instead make a weird noise and keep it in. We make our way back to my car and start talking about what movie we should see. Which kind of film do you like?",
+        "answers": [
+            {
+                "text": "Marvel Moive",
+                "idx": 3
+            },
+            {
+                "text": "Cute Pixar Movie",
+                "idx": 4
+            },
+            {
+                "text": "Rom-Com",
+                "idx": 5
+            }, 
+            {
+                "text": "Horror",
+                "idx": 6
+            }
+        ]
+    }, 
+    {
+        "text": "Wow, that's acutally really cool. I love the Marvel Movies! I admit I have a real nerdy side and tell you a cool fact or two about the movie, but hold back the other 500 I want to tell you because that would be annoying. I'll even get popcorn if you want. The whole movie I look for signs for whether or not I should make a move, but it's only a first date, I can try somehting more like that on our next dates. The movie is pretty fun but we are both kind of tired after the movie is over, so we head back to the car.",
+        "answers": [
+            {
+                "text": "Head back home",
+                "idx": 4
+            }
+        ]
+    },
+    {
+        "text": "After a fun night together I drive you back to your aparment and we talk for a minute in the car, awkwardly deciding when you would like to leave. Finally I have to let you go and I walk you back to your door. There's a little moment and I go for a friendly hug that lasts a little longer than normal; Just long enough to show I feel a little spark. I go back home and stare at my phone for a little while... hoping for a post-date text. I roll over and try to go to sleep, but then my phone buzzes and my heart leaps. Your name is on my phone, and I can't help but smile.",
+        "answers": [
+            {
+                "text": "Start Over",
+                "idx": 0
+            }
+        ]
+    },
+    {
+        "text": "Classy, but a little pricey... You mind splitting the bill?",
+        "answers": [
+            {
+                "text": "Yeah, no problem",
+                "idx": 6
+            },
+            {
+                "text": "No way!",
+                "idx": 7
+            }
+        ]
+    },
+    {
+        "text": "Wow, that's really cool of you actually. I wanted to take you somewhere nice but I didn't think I'd be able to afford it. We relish the chedder biscuits and sea food, but the best thing at dinner is just talking with you. We eventually overcome the inital awkwardness that comes on first dates and start laughing together and flirting up a storm. We walk out to the car and chat about the movie we're going to see. What's your pick?",
+        "answers": [
+            {
+                "text": "Marvel Moive",
+                "idx": 3
+            },
+            {
+                "text": "Cute Pixar Movie",
+                "idx": 4
+            },
+            {
+                "text": "Rom-Com",
+                "idx": 5
+            }, 
+            {
+                "text": "Horror",
+                "idx": 6
+            }
+        ]
+    },
+    {
+        "text": "Okay, we go to dinner and have a great time, but when the bill comes due I wince a little at the price. I laught it off and make a joke and the date goes really well, we even hold hands during the movie. As I walk you back to your door I feel a surge of bravery and do something crazy... I go in for a kiss on the doorstep. You are suprised, stiffening and I pull back. But then you lean in and kiss me back. We start dating after that and things start looking really good, but a few weeks later I come to you with bad news... I can't make rent this month. I spent too much on the lobster. We fight and you storm out. The landlord evicts me. After that I am kicked out of school becuase I was evicted. I lose my job and become homeless. I sleep everynight on the curb, desperately wanting you back, but at the same time feeling inadequate for you.",
+        "answers": [
+            {
+                "text": "Start Over",
+                "idx": 0
+            }
+        ]
+    }
+]
+}

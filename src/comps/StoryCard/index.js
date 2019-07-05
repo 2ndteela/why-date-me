@@ -10,10 +10,10 @@ class StoryCard extends Component {
     }
 
     selectOption(idx, clicked) {
+        if(idx === -1) this.props.message(this.props.question.answers[clicked].errorMsg)
+        else if(idx === 0) this.props.clear()
 
-        if(idx === -1) window.location.reload()
-
-        if(!this.state.selected) {
+        else if(!this.state.selected) {
             this.setState({
                 selected: clicked
             })
@@ -22,6 +22,8 @@ class StoryCard extends Component {
     }
 
     render() { 
+        console.log(this.props.question)
+        if(!this.props.question) return null
         return ( 
             <div className='card-body'>
                 <h2>{this.props.question.text}</h2>

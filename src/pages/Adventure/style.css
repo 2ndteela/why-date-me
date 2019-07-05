@@ -11,3 +11,9 @@
     height: 36px;
     top: -2px;
 }
+
+#dialog-message {
+    font-size: 18px;
+    text-align: center;
+    padding: 24px 0;
+}
